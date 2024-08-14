@@ -6,8 +6,7 @@ Yılanın Hareketi: Ok tuşlarıyla yılanın yönünü değiştirin.
 Yiyecek Toplama: Ekranda rastgele yerleştirilen yiyecekleri toplayarak yılanın büyümesini sağlayın.
 Çarpışma Kontrolü: Yılanın kendisine veya ekran kenarlarına çarpması oyunun son bulmasına neden olur.
 Puanlama: Toplanan yiyeceklerle artan puanlar.
-Kurulum
-Java JDK: Bu projeyi çalıştırmak için Java Development Kit (JDK) yüklü olmalıdır. Java JDK'yı buradan indirebilirsiniz.
+
 
 
 Kullanım
